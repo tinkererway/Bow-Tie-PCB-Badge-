@@ -2,6 +2,9 @@
 
 A wearable Bow Tie PCB badge for your next Special occasion.
 
+This project is Certified with [OSHWA](https://certification.oshwa.org/in000008.html) -OSHWA UID IN000008
+![image](https://user-images.githubusercontent.com/26376366/72660619-39a3de00-39f6-11ea-803a-84544a7dc61f.png)
+
 
 Project Details: [https://tinkererway.com/2019/10/08/bow-tie-pcb-badge/](url)
 
